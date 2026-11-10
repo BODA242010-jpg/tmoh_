@@ -1,0 +1,32 @@
+{
+  "desktop": {
+    "errors": [],
+    "screens": [
+      "home",
+      "study",
+      "chatbook"
+    ],
+    "checks": {
+      "task_updates_stats": true,
+      "quiz_saved": true,
+      "local_data_saved": true,
+      "navbar_six": true,
+      "saved_lessons_source": "foundational, verified from local lesson text"
+    }
+  },
+  "mobile": {
+    "errors": [],
+    "screens": [
+      "home",
+      "study",
+      "chatbook"
+    ],
+    "checks": {
+      "task_updates_stats": true,
+      "quiz_saved": true,
+      "local_data_saved": true,
+      "navbar_six": true,
+      "saved_lessons_source": "foundational, verified from local lesson text"
+    }
+  }
+}
